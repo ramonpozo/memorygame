@@ -1,0 +1,106 @@
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Memory.exe.config
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Memory.exe
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Memory.pdb
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.Inicio.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.exe
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.pdb
+E:\Ordenador Cari\Recuperacion\DI\Memory\bin\Debug\Memory.exe.config
+E:\Ordenador Cari\Recuperacion\DI\Memory\bin\Debug\Memory.exe
+E:\Ordenador Cari\Recuperacion\DI\Memory\bin\Debug\Memory.pdb
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.Inicio.resources
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.Juego.resources
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.Properties.Resources.resources
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.exe
+E:\Ordenador Cari\Recuperacion\DI\Memory\obj\Debug\Memory.pdb
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.JuegoNormal.resources
+D:\Ramon\DAM\Recuperacion\Memory\bin\Debug\Memory.exe.config
+D:\Ramon\DAM\Recuperacion\Memory\bin\Debug\Memory.exe
+D:\Ramon\DAM\Recuperacion\Memory\bin\Debug\Memory.pdb
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.Inicio.resources
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.JuegoFacil.resources
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.JuegoNormal.resources
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.Properties.Resources.resources
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.exe
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.pdb
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.Dificultad.resources
+D:\Ramon\DAM\Recuperacion\Memory\obj\Debug\Memory.JuegoDificil.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.Dificultad.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.JuegoDificil.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.JuegoFacil.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\MySql.Data.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Google.Protobuf.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\BouncyCastle.Crypto.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\MySql.Data.xml
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.csproj.CopyComplete
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.Ranking.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.Diploma.resources
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\EnvDTE.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\stdole.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\Microsoft.MSXML.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\RdlCompile.cache
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\RdlCompile.compiled
+D:\Ramon\DAM\Recuperacion\DI\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
